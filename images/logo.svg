@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <polygon strokeWidth="0" strokecolor="#000000" fill="#000000" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_5" cy="134" cx="264"/>
+  <g id="svg_9">
+   <text transform="matrix(1.82213, 0, 0, 2.96698, -978.123, -1035.64)" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="455.66507" x="716.127502" stroke-width="0" stroke="#000000" fill="#000000">HV</text>
+   <text transform="matrix(3.34993, 0, 0, 5.47367, -1940.21, -1552.74)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="364.414116" x="675.41634" stroke-width="0" stroke="#000000" fill="#000000">JAIME MORENO</text>
+   <polygon stroke-width="0" stroke="#000000" points="308.4842224121094,212.47023018231266 289.6335144042969,254.71743021459042 259.1328430175781,238.5804245048639 259.1328430175781,186.36006590283432 289.6335144042969,170.22309023618072 308.4842224121094,212.47023018231266 " strokeWidth="0" strokecolor="#000000" fill="#00007f" edge="17.600505" orient="x" sides="5" shape="regularPoly" id="svg_3" cy="125" cx="260"/>
+   <polygon stroke-width="0" stroke="#000000" points="371.5139465332031,102.69185034333714 338.0693664550781,177.64674857407772 283.9548645019531,149.0165713388069 283.9548645019531,56.36722698785434 338.0693664550781,27.73704787489146 371.5139465332031,102.69185034333714 " strokeWidth="0" strokecolor="#000000" fill="#00007f" edge="31.226769" orient="x" sides="5" shape="regularPoly" id="svg_6" cy="138" cx="324"/>
+   <polygon stroke-width="0" stroke="#000000" points="432.3056640625,194.66834252260196 402.1814270019531,262.1819621531831 353.4390869140625,236.39406991682336 353.4390869140625,152.94261512838057 402.1814270019531,127.15474542432548 432.3056640625,194.66834252260196 " strokeWidth="0" strokecolor="#000000" fill="#00007f" edge="28.126697" orient="x" sides="5" shape="regularPoly" id="svg_8" cy="137" cx="322"/>
+  </g>
+ </g>
+</svg>
